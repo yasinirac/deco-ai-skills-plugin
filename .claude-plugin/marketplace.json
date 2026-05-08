@@ -5,14 +5,14 @@
     "url": "https://deco.ae"
   },
   "metadata": {
-    "description": "Curated 86-skill plugin for DECO AI — engineering, marketing, design, and content creation skills audited and improved for production use",
-    "version": "1.0.0",
-    "audit-date": "2026-05-06"
+    "description": "Curated 86-skill plugin for DECO AI — engineering, marketing, design, and content creation",
+    "version": "1.0.1",
+    "repository": "https://github.com/yasinirac/deco-ai-skills-plugin"
   },
   "plugins": [
     {
-      "name": "deco-ai-skills",
-      "description": "86 curated skills covering: marketing (CRO, SEO, copywriting, paid ads, ad creative), design (frontend, UI/UX, design systems), engineering (TDD, debugging, React/Next.js best practices), automation (browser, knowledge graphs, integrations via Composio), writing (article shaping, copy editing), and productivity. All skills audited for trigger reliability; duplicates removed; weak descriptions rewritten with current best practices.",
+      "name": "skills",
+      "description": "86 curated skills covering marketing (CRO, SEO, copywriting, paid ads, ad creative), design (frontend, UI/UX, design systems), engineering (TDD, debugging, React/Next.js best practices), automation (browser, knowledge graphs, Composio integrations), writing, and productivity. All skills audited for trigger reliability and current best practices.",
       "source": "./",
       "skills": [
         "./skills/ab-test-setup",
