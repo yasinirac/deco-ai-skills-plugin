@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-orchestration",
+  "owner": "jamie-bitflight",
+  "repo": "claude_skills",
+  "path": "plugins/agent-orchestration/skills/agent-orchestration",
+  "branch": "main",
+  "sha": "2af752a548083150edde01e410892b4b8ef6955f",
+  "source": "manual"
+}

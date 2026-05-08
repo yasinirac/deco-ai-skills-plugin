@@ -1,0 +1,31 @@
+{
+  "name": "deco-ai-skills",
+  "description": "Curated 86-skill plugin for DECO AI — engineering, marketing, design, and content creation skills audited and improved for production use. Includes CRO, SEO, copywriting, paid ads, frontend design, React/Next.js best practices, browser automation, knowledge graphs, and 70+ more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DECO AI",
+    "url": "https://deco.ae"
+  },
+  "license": "Mixed (see individual skill files for original authorship)",
+  "skills": "./skills",
+  "metadata": {
+    "skill-count": 86,
+    "categories": [
+      "marketing",
+      "design",
+      "engineering",
+      "writing",
+      "automation",
+      "productivity"
+    ],
+    "audit-date": "2026-05-06",
+    "audit-status": "All skills reviewed; duplicates removed; frontmatter standardized; weak skills deeply rewritten with current 2026 best practices",
+    "improvements": {
+      "consolidated": ["bencium-controlled-ux-designer", "bencium-innovative-ux-designer", "write-a-skill", "edit-article"],
+      "frontmatter-fixed": ["composition-patterns", "react-best-practices", "react-native-skills", "react-view-transitions", "graphify"],
+      "deeply-improved": ["composio", "agent-browser", "remotion-best-practices", "scaffold-exercises"],
+      "disambiguated": ["information-architecture", "site-architecture", "grill-me", "grill-with-docs"],
+      "metadata-tagged": "32 skills tagged with runtime requirements (claude-code-only, requires-cli)"
+    }
+  }
+}
